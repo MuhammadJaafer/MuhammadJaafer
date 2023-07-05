@@ -1,10 +1,7 @@
 # 💻 Muhammad Jaafar 
 **`Software Engineer | Front-End Developer`**
 
-I'm a 2-year front-end developer skilled in creating user-friendly web apps with HTML, CSS, JS, and
-TypeScript. I specialize in React.js, Next.js, and Astro.js, and I am experienced with Redux and testing
-frameworks like Jest, react-testing-library, Cypress, and Playwright. I'm proficient in CSS frameworks, design tools, Git, GitHub, and Firebase integration. Committed to delivering high-quality, responsive
-web apps.
+Junior front-end developer with 2 years of experience in web development. Currently studying software engineering at Mutah University. Proficient in JavaScript, TypeScript, React, Next.js, Redux, Astro, and testing frameworks including Jest, react-testing-library, Cypress, and Playwright. Skilled in UI/UX design using Figma. Experienced in version control with Git and working with Firebase. Committed to continuous learning and growth in the field of web development.
 
 **visit my [portfolio](https://m7mad.dev/) for better experience**
 
