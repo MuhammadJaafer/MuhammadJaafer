@@ -1,6 +1,6 @@
+[![wakatime](https://wakatime.com/badge/user/311128a0-9ca1-47fe-a764-4f845543b6dc.svg)](https://wakatime.com/@311128a0-9ca1-47fe-a764-4f845543b6dc)
 # 💻 Muhammad Jaafar 
 **`Software Engineer | Front-End Developer`**
-[![wakatime](https://wakatime.com/badge/user/311128a0-9ca1-47fe-a764-4f845543b6dc.svg)](https://wakatime.com/@311128a0-9ca1-47fe-a764-4f845543b6dc)
 Junior front-end developer with 2 years of experience in web development. Currently studying software engineering at Mutah University. Proficient in JavaScript, TypeScript, React, Next.js, Redux, Astro, and testing frameworks including Jest, react-testing-library, Cypress, and Playwright. Skilled in UI/UX design using Figma. Experienced in version control with Git and working with Firebase. Committed to continuous learning and growth in the field of web development.
 
 **visit my [portfolio](https://m7mad.dev/) for better experience**
