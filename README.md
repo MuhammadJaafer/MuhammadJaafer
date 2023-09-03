@@ -5,20 +5,14 @@ Junior front-end developer with 2 years of experience in web development. Curren
 **visit my [portfolio](https://m7mad.dev/) for better experience**
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/muhammad-jaafar-a099801a9/">
+ 
+<a href="https://www.linkedin.com/in/muhammad-dawahreh/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
 </a>
-<a href="https://web.facebook.com/mohamad.jafer.75">
- <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> 
-</a>
-  <a href="https://www.instagram.com/m7mad_jo_/">
- <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> 
-</a>
-  <a href="mailto:muhammadaldawahreh@gmail.com">
+<a href="mailto:muhammadaldawahreh@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
 </a>
-    <a href="https://m7mad.dev/">
+<a href="https://m7mad.dev/">
  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"> 
 </a>
 </p>
