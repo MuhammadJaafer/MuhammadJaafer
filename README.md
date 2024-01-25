@@ -46,10 +46,10 @@ Junior front-end developer with 2 years of experience in web development. Curren
 #
 
 ### 📊 Stats
-
-<img height="160px" align="left"   src="https://github-readme-stats.vercel.app/api?username=MuhammadJaafer&show_icons=true&theme=radical"   />
+<div><img height="160px" align="left"   src="https://github-readme-stats.vercel.app/api?username=MuhammadJaafer&show_icons=true&theme=radical"   />
 
 <img height="160px" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadJaafer&layout=compact&theme=radical"  />
+</div>
 
 <img height="160px" align="left" style="display:block;margin-top:10px;"  src="https://api.roadmap.sh/v1-badge/wide/64b3fe499a1017508d22c4b7?variant=dark&roadmaps=frontend%2Csystem-design%2Csoftware-design-architecture%2Cjava"  />
 
