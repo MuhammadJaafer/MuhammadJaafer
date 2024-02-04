@@ -1,8 +1,7 @@
-# 💻 Muhammad Jaafar 
-**`Software Engineer | Front-End Developer`**
-Junior front-end developer with 2 years of experience in web development. Currently studying software engineering at Mutah University. Proficient in JavaScript, TypeScript, React, Next.js, Redux, Astro, and testing frameworks including Jest, react-testing-library, Cypress, and Playwright. Skilled in UI/UX design using Figma. Experienced in version control with Git and working with Firebase. Committed to continuous learning and growth in the field of web development.
+# 💻 Muhammad AlDawahreh
+**A Software Engineer.**
 
-**visit my [portfolio](https://m7mad.dev/) for better experience**
+**Visit my [portfolio](https://m7mad.dev/) I have wasted a lot of time working on it.**
 
 <p align="left">
  
